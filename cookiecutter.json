@@ -1,0 +1,9 @@
+{
+    "project_tittle": "Coockiecutter Test",
+    "project_slug": "cookiecutter_test",
+    "project_description": "Damage control for Mazinger Z",
+    "tiroloco": "No me acuerdo que iba a escribir aqui",
+    "project_author_name": "El enmascarado",
+    "project_packages": ["All", "Minimal"],
+    "python_version": "3.7"
+}
